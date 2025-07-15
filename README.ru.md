@@ -53,7 +53,7 @@
 
 ## 📡 Ссылки и связь
 
-- 🌍 Сайт: [the-inet.vercel.app](https://the-inet.vercel.app)
+- 🌍 Сайт: [theinet.vercel.app](https://theinet.vercel.app)
 - 📂 GitHub: [github.com/Theinet](https://github.com/Theinet)
 - 📫 Почта для связи: [theinet@proton.me](mailto:theinet@proton.me)
 - 📝 О проекте:  

@@ -49,7 +49,7 @@ We build:
 
 ## 📡 Links & Contact
 
-- 🌍 Website: [the-inet.vercel.app](https://the-inet.vercel.app)
+- 🌍 Website: [theinet.vercel.app](https://theinet.vercel.app)
 - 📂 GitHub: [github.com/Theinet](https://github.com/Theinet)
 - 📫 Contact: [theinet@proton.me](mailto:theinet@proton.me)
 - 📝 About the project:  

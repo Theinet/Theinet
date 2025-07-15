@@ -49,7 +49,7 @@
 
 ## 📡 Контакти та посилання
 
-- 🌍 Сайт: [the-inet.vercel.app](https://the-inet.vercel.app)
+- 🌍 Сайт: [theinet.vercel.app](https://theinet.vercel.app)
 - 📂 GitHub: [github.com/Theinet](https://github.com/Theinet)
 - 📫 Зв'язок: [theinet@proton.me](mailto:theinet@proton.me)
 - 📝 Про проєкт:  
