@@ -65,4 +65,4 @@ We build:
 
 ---
 
-<p align="center"><em>© 2021–2025 THE INET. All rights reserved.</em></p>
+<p align="center"><em>© 2021 THE INET. All rights reserved.</em></p>
