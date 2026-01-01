@@ -65,5 +65,5 @@
 
 ---
 
-<p align="center"><em>© 2021–2025 THE INET. Усі права захищено.</em></p>
-  
+<p align="center"><em>© 2021 THE INET. Усі права захищено.</em></p>
+
