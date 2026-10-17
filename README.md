@@ -1,68 +1,26 @@
-<h1 align="center">THE INET</h1>
-<p align="center"><strong>Custom Software Development Solutions</strong><br>
-<em>Ukraine · Established in 2021</em></p>
+# THE INET
 
----
+[Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [English](README.md) · [Українська](README.ua.md)
 
-📖 Available in: [🇺🇦 Українська](README.ua.md)
+THE INET develops custom software, websites and automation tools for businesses worldwide. We work internationally, with clear communication, practical solutions and interfaces adapted to our clients’ languages.
 
----
+The initiative began in Ukraine in 2021. Our focus is on understanding each business task and building a solution that fits the way the team works.
 
-## 🧠 About Us
+## What we build
 
-**THE INET** is an independent digital initiative from Ukraine focused on custom software development for business needs.
+- Websites and web applications with responsive interfaces.
+- Desktop utilities and document-processing tools.
+- Bots, scripts and workflow automation.
+- Custom software integrations and technical consulting.
 
-The project began in 2021 as a private concept and expanded in 2024 into a public-facing studio with a website, brand identity, and open-source activity.
+## Languages
 
-We build:
+Source code and primary technical documentation are in English. Our public websites and information are available in German, French, Italian, English and Ukrainian.
 
-- ✅ Desktop and web applications
-- ✅ Automation tools and business utilities
-- ✅ Lightweight offline-first software
-- ✅ UI/UX design and functional branding
+[All repositories](https://github.com/Theinet?tab=repositories)
 
----
+## Links and contact
 
-## 🔐 Core Principles
-
-- ❌ **No telemetry. Ever.**  
-  All THE INET software is 100% telemetry-free — we do not collect, transmit, or analyze user data.  
-  User privacy and digital independence are foundational values.
-
-- 📴 **Works without internet**  
-  Wherever possible, our applications are designed to function offline, without constant connectivity.
-
----
-
-## 🧩 Technology Stack
-
-- 💻 **Desktop Development**:  
-  We use **WPF** and **Avalonia UI** for cross-platform and native desktop apps.
-
-- 🌐 **Web Tech**:  
-  React, Next.js, Vercel — for web portals, SaaS panels, and admin UIs.
-
-- ⚙️ **Philosophy**:  
-  Minimalist, efficient, stable. We don’t chase trends — we build tools.
-
----
-
-## 📡 Links & Contact
-
-- 🌍 Website: [theinet.vercel.app](https://theinet.vercel.app)
-- 📂 GitHub: [github.com/Theinet](https://github.com/Theinet)
-- 📫 Contact: [theinet@proton.me](mailto:theinet@proton.me)
-- 📝 About the project:  
-  [🇺🇦 Telegra.ph](https://telegra.ph/Hto-tak%D1%96-THE-INET--%D1%96ndiv%D1%96dualn%D1%96-cifrov%D1%96-r%D1%96shennya-dlya-b%D1%96znesu-07-23)  
-  [🇬🇧 Telegra.ph](https://telegra.ph/Who-is-THE-INET--Custom-Digital-Solutions-for-Your-Business-07-23)
-
----
-
-## ⚖️ Legal Status
-
-> “THE INET” has been in use since **2021** as a software and IT initiative.  
-> As of 2024, the project is undergoing legal trademark registration and brand protection in Ukraine and the EU.
-
----
-
-<p align="center"><em>© 2021 THE INET. All rights reserved.</em></p>
+- Official website: [www.theinet.ch](https://www.theinet.ch/en)
+- Contact: [contact@theinet.ch](mailto:contact@theinet.ch)
+- [Telegra.ph](https://telegra.ph/THE-INET--your-reliable-partner-in-creating-custom-digital-solutions-for-your-business-10-17)
